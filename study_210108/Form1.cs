@@ -19,7 +19,7 @@ namespace study_210108
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "OK";
+            button1.Text = "OK Button";
             button1.BackColor = Color.White;
 
 
